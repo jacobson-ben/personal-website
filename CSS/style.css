@@ -258,7 +258,8 @@ hr {
 }
 
 .form-control {
-    width: 500px;
+    max-width: 500px;
+    min-width: 100px;
     background: transparent;
     border: none;
     outline: none;
