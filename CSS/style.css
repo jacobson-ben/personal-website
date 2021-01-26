@@ -252,7 +252,7 @@ hr {
 .contact-form-group {
     display: flex;
     flex-wrap: wrap;
-    padding: 0px 30px 80px 0px;
+    padding: 0px 30px 80px 30px;
     background-color: rgb(206, 202, 202);
     text-align: center;
     display: block;
